@@ -1,4 +1,4 @@
-package GoalPioneers.Formats;
+package GoalPioneers.Formats.Templates;
 
 
 /**
