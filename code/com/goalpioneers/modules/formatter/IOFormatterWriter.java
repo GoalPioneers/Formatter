@@ -4,6 +4,15 @@ package com.goalpioneers.modules.formatter;
 /**
  * 
  */
-public class IOFormatterWriter 
+public abstract class IOFormatterWriter 
+	extends IOFormatter
 {
+	/**
+	 * 
+	 */
+	public IOFormatterWriter()
+	{
+		this.setType( IOFormatterType.Writer );
+	}
+	
 }
