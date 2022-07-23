@@ -39,4 +39,15 @@ public class FlatFilesMatrice
 	{
 		this.rows = rows;
 	}
+	
+	
+	/**
+	 * 
+	 * @return
+	 */
+	@Override
+	public String toString() 
+	{
+		return super.toString();
+	}
 }
