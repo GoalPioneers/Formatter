@@ -16,15 +16,15 @@ public abstract class FlatFilesColumn
 		this.setType( FlatFilesColumnType.None );
 	}
 	
-	//
+	// Accessors
 	protected static String EmptyString = "None";
 	
 	private String data = null;
 	
 	private FlatFilesColumnType type = null;
 	
-	//
 	
+	// Accessors
 	/**
 	 * 
 	 * @return
@@ -59,5 +59,16 @@ public abstract class FlatFilesColumn
 	public final void setType( FlatFilesColumnType type ) 
 	{
 		this.type = type;
+	}
+	
+	
+	/**
+	 * 
+	 * @return
+	 */
+	@Override
+	public String toString() 
+	{
+		return super.toString();
 	}
 }

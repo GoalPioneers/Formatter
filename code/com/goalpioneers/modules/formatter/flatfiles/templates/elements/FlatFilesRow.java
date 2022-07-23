@@ -19,12 +19,14 @@ public class FlatFilesRow
 	}
 	
 	
-	//
+	// Variables
 	/**
 	 * 
 	 */
 	private List<FlatFilesColumn> columns = null;
 	
+	
+	// Accessors
 	/**
 	 * 
 	 * @return
@@ -41,5 +43,16 @@ public class FlatFilesRow
 	public final void setColumns( List<FlatFilesColumn> columns )
 	{
 		this.columns = columns;
+	}
+	
+	
+	/**
+	 * 
+	 * @return
+	 */
+	@Override
+	public String toString() 
+	{
+		return super.toString();
 	}
 }
