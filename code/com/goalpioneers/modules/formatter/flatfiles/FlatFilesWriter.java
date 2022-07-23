@@ -7,7 +7,7 @@ import com.goalpioneers.modules.formatter.IOFormatterWriter;
 /**
  * 
  */
-public class FlatFilesWriter 
+public abstract class FlatFilesWriter 
 	extends IOFormatterWriter
 {
 	

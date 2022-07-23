@@ -1,4 +1,9 @@
 package com.goalpioneers.modules.formatter;
 
-public class IOFormatterWriter {
+
+/**
+ * 
+ */
+public class IOFormatterWriter 
+{
 }
