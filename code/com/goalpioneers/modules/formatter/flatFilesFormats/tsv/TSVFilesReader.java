@@ -1,4 +1,4 @@
-package com.goalpioneers.modules.formatter.flatfiles.tsv;
+package com.goalpioneers.modules.formatter.flatFilesFormats.tsv;
 
 import com.goalpioneers.modules.formatter.templates.FlatFilesReader;
 

@@ -1,4 +1,4 @@
-package com.goalpioneers.modules.formatter.flatfiles.csv;
+package com.goalpioneers.modules.formatter.flatFilesFormats.csv;
 
 import com.goalpioneers.modules.formatter.templates.FlatFilesWriter;
 
