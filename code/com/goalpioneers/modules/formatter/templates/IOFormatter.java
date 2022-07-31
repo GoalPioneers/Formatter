@@ -1,6 +1,8 @@
 package com.goalpioneers.modules.formatter.templates;
 
 
+import com.goalpioneers.modules.formatter.templates.objects.IOFormatterType;
+
 /**
  * 
  */

@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-import com.goalpioneers.modules.formatter.IOFormatterReader;
+import com.goalpioneers.modules.formatter.templates.IOFormatterReader;
 import com.goalpioneers.modules.formatter.flatfiles.templates.elements.FlatFilesMatrice;
 
 

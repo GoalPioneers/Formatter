@@ -15,10 +15,10 @@ public class Debug
 	public static void main( String[] args ) 
 		throws Exception
 	{
-		String pathTo = "D:\\OpenHardwareMonitorLog-2022-06-02.csv";
+		String pathTo = "D:\\Workspace\\drivers\\Shipment.Module.Formatters\\test\\data\\test.csv";
 		CSVFilesReader reader = new CSVFilesReader( pathTo );
 		
-		System.out.println(reader.toString());
+		System.out.println( reader.toString() );
 	}
 	
 }
