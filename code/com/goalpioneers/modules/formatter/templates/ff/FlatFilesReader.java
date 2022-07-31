@@ -1,12 +1,12 @@
-package com.goalpioneers.modules.formatter.flatfiles.templates;
+package com.goalpioneers.modules.formatter.templates.ff;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-import com.goalpioneers.modules.formatter.templates.IOFormatterReader;
-import com.goalpioneers.modules.formatter.flatfiles.objects.elements.FlatFilesMatrice;
+import com.goalpioneers.modules.formatter.templates.io.IOFormatterReader;
+import com.goalpioneers.modules.formatter.objects.elements.FlatFilesMatrice;
 
 
 /**

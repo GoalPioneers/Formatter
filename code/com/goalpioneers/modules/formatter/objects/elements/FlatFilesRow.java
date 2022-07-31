@@ -1,9 +1,9 @@
-package com.goalpioneers.modules.formatter.flatfiles.objects.elements;
+package com.goalpioneers.modules.formatter.objects.elements;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.goalpioneers.modules.formatter.flatfiles.templates.FlatFilesColumn;
+import com.goalpioneers.modules.formatter.templates.ff.FlatFilesColumn;
 
 
 /**

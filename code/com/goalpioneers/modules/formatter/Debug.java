@@ -1,7 +1,7 @@
 package com.goalpioneers.modules.formatter;
 
 
-import com.goalpioneers.modules.formatter.flatfiles.csv.CSVFilesReader;
+import com.goalpioneers.modules.formatter.flatFilesFormats.csv.CSVFilesReader;
 
 /**
  * 

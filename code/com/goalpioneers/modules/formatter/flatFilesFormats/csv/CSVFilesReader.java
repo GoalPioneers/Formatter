@@ -1,8 +1,8 @@
-package com.goalpioneers.modules.formatter.flatfiles.csv;
+package com.goalpioneers.modules.formatter.flatFilesFormats.csv;
 
 import java.io.FileNotFoundException;
 
-import com.goalpioneers.modules.formatter.flatfiles.templates.FlatFilesReader;
+import com.goalpioneers.modules.formatter.templates.ff.FlatFilesReader;
 
 
 /**
