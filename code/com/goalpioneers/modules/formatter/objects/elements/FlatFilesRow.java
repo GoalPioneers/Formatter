@@ -3,7 +3,7 @@ package com.goalpioneers.modules.formatter.objects.elements;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.goalpioneers.modules.formatter.templates.FlatFilesColumn;
+import com.goalpioneers.modules.formatter.templates.ff.FlatFilesColumn;
 
 
 /**

@@ -1,6 +1,6 @@
 package com.goalpioneers.modules.formatter.flatFilesFormats.tsv;
 
-import com.goalpioneers.modules.formatter.templates.FlatFilesWriter;
+import com.goalpioneers.modules.formatter.templates.ff.FlatFilesWriter;
 
 
 /**

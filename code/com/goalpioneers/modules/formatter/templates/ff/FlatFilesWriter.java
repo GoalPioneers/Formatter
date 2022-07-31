@@ -1,7 +1,7 @@
-package com.goalpioneers.modules.formatter.templates;
+package com.goalpioneers.modules.formatter.templates.ff;
 
 
-import com.goalpioneers.modules.formatter.templates.IOFormatterWriter;
+import com.goalpioneers.modules.formatter.templates.io.IOFormatterWriter;
 import com.goalpioneers.modules.formatter.objects.elements.FlatFilesMatrice;
 
 

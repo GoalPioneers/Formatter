@@ -1,4 +1,4 @@
-package com.goalpioneers.modules.formatter.templates;
+package com.goalpioneers.modules.formatter.templates.ff;
 
 
 import com.goalpioneers.modules.formatter.objects.types.FlatFilesColumnType;
