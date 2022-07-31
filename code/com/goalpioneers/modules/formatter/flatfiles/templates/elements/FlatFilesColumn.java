@@ -1,6 +1,8 @@
 package com.goalpioneers.modules.formatter.flatfiles.templates.elements;
 
 
+import com.goalpioneers.modules.formatter.flatfiles.templates.objects.FlatFilesColumnType;
+
 /**
  * 
  */
@@ -15,6 +17,7 @@ public abstract class FlatFilesColumn
 		this.setData( dataValue );
 		this.setType( FlatFilesColumnType.None );
 	}
+	
 	
 	// Accessors
 	protected static String EmptyString = "None";

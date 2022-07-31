@@ -14,7 +14,9 @@ public class FlatFilesMatrice
 	 */
 	public FlatFilesMatrice()
 	{
-		this.setRows( new ArrayList<>() );
+		this.setRows(
+			new ArrayList<>() 
+		);
 	}
 	
 	// Variables

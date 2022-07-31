@@ -9,5 +9,20 @@ import com.goalpioneers.modules.formatter.flatfiles.templates.FlatFilesReader;
 public class TSVFilesReader 
 	extends FlatFilesReader
 {
+	public TSVFilesReader()
+	{
+		
+	}
 	
+	@Override
+	public void load() 
+	{
+		
+	}
+	
+	@Override
+	public void loadWholeFile() 
+	{
+		
+	}
 }

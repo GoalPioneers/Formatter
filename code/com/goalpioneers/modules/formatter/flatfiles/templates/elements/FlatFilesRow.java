@@ -1,6 +1,5 @@
 package com.goalpioneers.modules.formatter.flatfiles.templates.elements;
 
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -15,7 +14,9 @@ public class FlatFilesRow
 	 */
 	public FlatFilesRow()
 	{
-		this.setColumns( new ArrayList<>() );
+		this.setColumns( 
+			new ArrayList<>() 
+		);
 	}
 	
 	

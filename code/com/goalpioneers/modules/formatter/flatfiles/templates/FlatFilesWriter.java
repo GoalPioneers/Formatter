@@ -20,11 +20,15 @@ public abstract class FlatFilesWriter
 	 */
 	public FlatFilesWriter()
 	{
-		this.setMatrice( new FlatFilesMatrice() );
+		this.setMatrice( 
+			new FlatFilesMatrice()
+		);
 	}
+	
 	
 	// Variables
 	private FlatFilesMatrice matrice = null;
+	
 	
 	// Accessors
 	/**
@@ -33,7 +37,7 @@ public abstract class FlatFilesWriter
 	 */
 	public FlatFilesMatrice getMatrice() 
 	{
-		return matrice;
+		return this.matrice;
 	}
 	
 	/**

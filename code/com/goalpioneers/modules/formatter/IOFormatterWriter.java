@@ -1,6 +1,10 @@
 package com.goalpioneers.modules.formatter;
 
 
+import com.goalpioneers.modules.formatter.templates.IOFormatter;
+import com.goalpioneers.modules.formatter.templates.IOFormatterType;
+
+
 /**
  * 
  */
