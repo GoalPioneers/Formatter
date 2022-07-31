@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 import com.goalpioneers.modules.formatter.templates.IOFormatterReader;
-import com.goalpioneers.modules.formatter.flatfiles.templates.elements.FlatFilesMatrice;
+import com.goalpioneers.modules.formatter.flatfiles.objects.elements.FlatFilesMatrice;
 
 
 /**

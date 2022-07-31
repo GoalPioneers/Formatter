@@ -1,7 +1,7 @@
 package com.goalpioneers.modules.formatter.flatfiles.templates;
 
 
-import com.goalpioneers.modules.formatter.flatfiles.templates.objects.FlatFilesColumnType;
+import com.goalpioneers.modules.formatter.flatfiles.objects.types.FlatFilesColumnType;
 
 /**
  * 
