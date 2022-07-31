@@ -12,24 +12,44 @@ public abstract class IOFormatter
 	 * 
 	 */
 	private IOFormatterType type = IOFormatterType.None;
+	private String path = null;
+	
+	
+	// Accessors
+	/**
+	 * 
+	 * @return
+	 */
+	public final IOFormatterType getType() 
+	{
+		return this.type;
+	}
+	
+	/**
+	 * 
+	 * @param type
+	 */
+	protected final void setType( IOFormatterType type ) 
+	{
+		this.type = type;
+	}
 	
 	
 	/**
 	 * 
 	 * @return
 	 */
-	public IOFormatterType getType() 
+	public final String getPath()
 	{
-		return type;
+		return this.path;
 	}
-	
 	
 	/**
 	 * 
-	 * @param type
+	 * @param toValue
 	 */
-	protected void setType( IOFormatterType type ) 
+	protected final void setPath( String toValue )
 	{
-		this.type = type;
+		this.path = toValue;
 	}
 }

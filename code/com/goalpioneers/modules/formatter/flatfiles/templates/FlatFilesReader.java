@@ -26,8 +26,6 @@ public abstract class FlatFilesReader
 	}
 	
 	// Variables
-	private String path = null;
-	
 	private FlatFilesMatrice matrice = null;
 	
 	private BufferedReader reader = null;
@@ -91,16 +89,6 @@ public abstract class FlatFilesReader
 	public final void setMatrice( FlatFilesMatrice matrice )
 	{
 		this.matrice = matrice;
-	}
-	
-	public final String getPath() 
-	{
-		return this.path;
-	}
-	
-	public final void setPath( String toValue )
-	{
-		this.path = toValue;
 	}
 	
 	public final boolean isDone() 
