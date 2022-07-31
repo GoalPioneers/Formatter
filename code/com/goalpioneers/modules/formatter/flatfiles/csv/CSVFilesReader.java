@@ -2,7 +2,7 @@ package com.goalpioneers.modules.formatter.flatfiles.csv;
 
 import java.io.FileNotFoundException;
 
-import com.goalpioneers.modules.formatter.flatfiles.templates.FlatFilesReader;
+import com.goalpioneers.modules.formatter.templates.FlatFilesReader;
 
 
 /**

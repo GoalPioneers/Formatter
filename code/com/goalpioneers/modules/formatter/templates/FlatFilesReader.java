@@ -1,4 +1,4 @@
-package com.goalpioneers.modules.formatter.flatfiles.templates;
+package com.goalpioneers.modules.formatter.templates;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

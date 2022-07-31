@@ -1,6 +1,6 @@
 package com.goalpioneers.modules.formatter.flatfiles.csv;
 
-import com.goalpioneers.modules.formatter.flatfiles.templates.FlatFilesWriter;
+import com.goalpioneers.modules.formatter.templates.FlatFilesWriter;
 
 
 /**
