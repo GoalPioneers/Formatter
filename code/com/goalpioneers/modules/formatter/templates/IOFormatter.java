@@ -8,10 +8,15 @@ import com.goalpioneers.modules.formatter.templates.objects.IOFormatterType;
  */
 public abstract class IOFormatter 
 {
+	// Variables
 	/**
 	 * 
 	 */
 	private IOFormatterType type = IOFormatterType.None;
+	
+	/**
+	 * 
+	 */
 	private String path = null;
 	
 	
