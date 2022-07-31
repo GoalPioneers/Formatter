@@ -1,4 +1,4 @@
-package com.goalpioneers.modules.formatter.objects;
+package com.goalpioneers.modules.formatter.objects.types;
 
 
 /**
