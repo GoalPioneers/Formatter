@@ -5,8 +5,8 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-import com.goalpioneers.modules.formatter.IOFormatterReader;
-import com.goalpioneers.modules.formatter.flatfiles.templates.elements.FlatFilesMatrice;
+import com.goalpioneers.modules.formatter.templates.IOFormatterReader;
+import com.goalpioneers.modules.formatter.flatfiles.objects.elements.FlatFilesMatrice;
 
 
 /**
@@ -26,8 +26,6 @@ public abstract class FlatFilesReader
 	}
 	
 	// Variables
-	private String path = null;
-	
 	private FlatFilesMatrice matrice = null;
 	
 	private BufferedReader reader = null;
@@ -91,16 +89,6 @@ public abstract class FlatFilesReader
 	public final void setMatrice( FlatFilesMatrice matrice )
 	{
 		this.matrice = matrice;
-	}
-	
-	public final String getPath() 
-	{
-		return this.path;
-	}
-	
-	public final void setPath( String toValue )
-	{
-		this.path = toValue;
 	}
 	
 	public final boolean isDone() 

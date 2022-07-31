@@ -1,12 +1,8 @@
 package com.goalpioneers.modules.formatter.flatfiles.templates;
 
 
-import java.util.ArrayList;
-import java.util.List;
-
-import com.goalpioneers.modules.formatter.IOFormatterWriter;
-import com.goalpioneers.modules.formatter.flatfiles.templates.elements.FlatFilesMatrice;
-import com.goalpioneers.modules.formatter.flatfiles.templates.elements.FlatFilesRow;
+import com.goalpioneers.modules.formatter.templates.IOFormatterWriter;
+import com.goalpioneers.modules.formatter.flatfiles.objects.elements.FlatFilesMatrice;
 
 
 /**

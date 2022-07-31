@@ -1,4 +1,4 @@
-package com.goalpioneers.modules.formatter.flatfiles.templates.objects;
+package com.goalpioneers.modules.formatter.flatfiles.objects.types;
 
 
 /**
